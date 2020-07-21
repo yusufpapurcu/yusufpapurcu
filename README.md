@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=yusufpapurcu)
+![](https://komarev.com/ghpvc/?username=yusufpapurcu&color=red)
 
 
 <!--
