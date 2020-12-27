@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently study on **Aziz Atik High School**
 
-- 👯 I’m looking to collaborate on **Go projets**
+- 👯 I’m looking to collaborate on **Funny and Useful projets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yusufpapurcu](https://github.com/yusufpapurcu)
 
