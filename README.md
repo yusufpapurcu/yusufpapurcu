@@ -1,5 +1,5 @@
-# Hi 👋, I'm Yusuf Papurcu
-## I'm a Junior Developer working in [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/)
+# Hi 👋, I'm Yusuf Papurcu,
+# I'm a Junior Developer working in [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufpapurcu" alt="yusufpapurcu" /> </p> 
 
