@@ -1,7 +1,5 @@
 # Hi 👋, I'm Yusuf Papurcu,
-# I'm a Junior Developer working in [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufpapurcu" alt="yusufpapurcu" /> </p> 
+### I'm a Junior Developer working in [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/)
 
 - 🔭 I’m currently study on **Aziz Atik High School**
 
@@ -16,3 +14,5 @@
 - 📫 How to reach me [yusufturhanp@gmail.com](mailto:yusufturhanp@gmail.com)
 
 - ⚡ Fun fact **Sometimes I'm trying run `sudo systemctl start docker` on Windows**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufpapurcu" alt="yusufpapurcu" /> </p> 
