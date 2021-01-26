@@ -6,5 +6,3 @@
 - ✏️ I love writing something in my [medium](https://medium.com/@yusufpapurcu)
 
 - 📫 How to reach me [yusufturhanp@gmail.com](mailto:yusufturhanp@gmail.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufpapurcu" alt="yusufpapurcu" /> </p> 
