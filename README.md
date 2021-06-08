@@ -1,4 +1,6 @@
-Welcome to my profile :wave:. There is some information about me.
+Welcome to my profile :wave:.
+
+There is some information about me.
 
 Last Update: 2021-05-06
 
