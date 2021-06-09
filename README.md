@@ -5,6 +5,7 @@ There is some information about me.
 Last Update: 2021-05-06
 
 ## Open Source
+- [postgrest-go](https://github.com/supabase/postgrest-go): Isomorphic Go client for PostgREST.
 - [passwall-server](https://github.com/passwall/passwall-server): PassWall Server is the core backend infrastructure for PassWall platform.
 - [rest-wmi](https://github.com/yusufpapurcu/rest-wmi): Windows WMI to http server written in rust.
 - [go-programlama-dili](https://github.com/ksckaan1/go-programlama-dili): Turkish E-Book about Go.
