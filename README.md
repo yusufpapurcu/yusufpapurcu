@@ -16,7 +16,7 @@ Last Update: 2021-05-06
 - Also I'm tried creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
 
 ## Work
-- **2020-Now:** @VirtualMetric, I am working about data collectors.
+- **2020-Now:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
 
 ## Contact
 Here is my contact informations.
