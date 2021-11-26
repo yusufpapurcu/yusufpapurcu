@@ -1,8 +1,4 @@
-Welcome to my profile :wave:.
-
-There is some information about me.
-
-Last Update: 2021-05-06
+Last Update: 26-11-2021
 
 ## Open Source
 - [postgrest-go](https://github.com/supabase/postgrest-go): Isomorphic Go client for PostgREST.
