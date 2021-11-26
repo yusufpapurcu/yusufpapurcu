@@ -1,5 +1,3 @@
-Last Update: 26-11-2021
-
 ## Open Source
 - [postgrest-go](https://github.com/supabase/postgrest-go): Isomorphic Go client for PostgREST.
 - [passwall-server](https://github.com/passwall/passwall-server): PassWall Server is the core backend infrastructure for PassWall platform.
@@ -19,3 +17,5 @@ Here is my contact informations.
 - [LinkedIn](https://www.linkedin.com/in/yusufpapurcu/)
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
+
+<sub><sup>Last Update: 26-11-2021</sup></sub>
