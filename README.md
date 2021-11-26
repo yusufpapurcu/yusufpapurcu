@@ -7,8 +7,9 @@
 - [wmi-rs](https://github.com/ohadravid/wmi-rs): wmi implemention for rust.
 
 ## Blog
-- I am not writing regularly but here is my [Medium](https://yusufpapurcu.medium.com).<br/>
-- Also I'm trying creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
+- 🚧🚧🚧 **My own blog is in construction** 🚧🚧🚧
+- I am not writing regularly but here is my [Medium](https://yusufpapurcu.medium.com).
+- I am trying creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
 
 ## Work
 - **2020-Now:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
