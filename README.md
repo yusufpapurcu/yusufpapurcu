@@ -7,8 +7,7 @@
 - [wmi-rs](https://github.com/ohadravid/wmi-rs): wmi implemention for rust.
 
 ## Blog
-- 🚧🚧🚧 **My own blog is in construction** 🚧🚧🚧
-- I am not writing regularly but here is my [Medium](https://yusufpapurcu.medium.com).
+- I am writing tech blog in [dev.to/yusufpapurcu](https://dev.to/yusufpapurcu)
 - I am trying creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
 
 ## Work
@@ -20,4 +19,4 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 26-11-2021</sup></sub>
+<sub><sup>Last Update: 28-11-2021</sup></sub>
