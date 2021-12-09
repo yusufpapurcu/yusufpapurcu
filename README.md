@@ -2,7 +2,7 @@
 - [wmi](https://github.com/yusufpapurcu/wmi): Fork from StackExchange/wmi which I am trying to keep alive.
 - [postgrest-go](https://github.com/supabase/postgrest-go): Isomorphic Go client for PostgREST.
 - [passwall-server](https://github.com/passwall/passwall-server): PassWall Server is the core backend infrastructure for PassWall platform.
-- [rest-wmi](https://github.com/yusufpapurcu/rest-wmi): Windows WMI to http server written in rust.
+- [rest-wmi](https://github.com/thatmightgood/rest-wmi): Windows WMI to http server written in rust.
 - [go-programlama-dili](https://github.com/ksckaan1/go-programlama-dili): Turkish E-Book about Go.
 - [wmi-rs](https://github.com/ohadravid/wmi-rs): wmi implemention for rust.
 
@@ -19,4 +19,4 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 28-11-2021</sup></sub>
+<sub><sup>Last Update: 09-12-2021</sup></sub>
