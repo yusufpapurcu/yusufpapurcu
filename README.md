@@ -9,6 +9,7 @@
 I am creating little tools for fun and put them to [here](https://github.com/thatmightgood).<br/>
 Also you can navigate to my [archive](https://github.com/yusufpapurcu-archive) and [educational](https://github.com/yusufpapurcu-educational) repositories.
 ## Blog
+- Here is my website [yusufpapurcu.com](https://www.yusufpapurcu.com)
 - I am writing tech blog in [dev.to/yusufpapurcu](https://dev.to/yusufpapurcu)
 - I am trying creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
 
