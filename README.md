@@ -14,7 +14,8 @@ Also you can navigate to my [archive](https://github.com/yusufpapurcu-archive) a
 - I am trying creating Turkish content in YouTube. Here is my [YouTube](https://www.youtube.com/channel/UCn0yrndeCy6yeqZFVhucpfQ) Channel.
 
 ## Work
-- **2020-Now:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
+- **2020-2022:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
+- **2022-Now:** [@SaltPay](https://www.linkedin.com/company/salt-pay/), I am working in Settlements Team.
 
 ## Contact
 Here is my contact informations.
@@ -22,5 +23,5 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 10-12-2021</sup></sub>
+<sub><sup>Last Update: 15-04-2022</sup></sub>
 <sub><sup>![](https://hit.yhype.me/github/profile?user_id=41443083)</sup></sub>
