@@ -15,7 +15,7 @@ Also you can navigate to my [archive](https://github.com/yusufpapurcu-archive) a
 
 ## Work
 - **2020-2022:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
-- **2022-Now:** [@SaltPay](https://www.linkedin.com/company/salt-pay/), I am working in Settlements Team.
+- **2022-Now:** [@SaltPay](https://www.linkedin.com/company/salt-pay/), I am working in Acquiring Settlements Team.
 
 ## Contact
 Here is my contact informations.
@@ -23,5 +23,5 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 15-04-2022</sup></sub>
+<sub><sup>Last Update: 25-07-2022</sup></sub>
 <sub><sup>![](https://hit.yhype.me/github/profile?user_id=41443083)</sup></sub>
