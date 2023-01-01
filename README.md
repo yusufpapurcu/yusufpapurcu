@@ -19,7 +19,6 @@ Recently moved to 🇵🇹 and tries to get used to it.
 - [go-license-checker](https://github.com/yusufpapurcu/go-license-checker): Check licenses in your go package with this action!
 - [go-programlama-dili](https://github.com/ksckaan1/go-programlama-dili): Turkish E-Book about Go.
 
-I am creating little tools for fun and put them to [here](https://github.com/thatmightgood).<br/>
 Also you can navigate to my [archive](https://github.com/yusufpapurcu-archive) and [educational](https://github.com/yusufpapurcu-educational) repositories.
 
 ## Contact
@@ -28,4 +27,4 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 30-12-2022</sup></sub>
+<sub><sup>Last Update: 01-01-2023</sup></sub>
