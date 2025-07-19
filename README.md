@@ -1,7 +1,4 @@
 ## About Me
-A teen lives without a purpose, a folk enjoys software engineering. <br>
-Recently moved to 🇵🇹 and tries to get used to it.
-
 - Here is my [**personal blog**](https://blog.yusufpapurcu.com) if you want to see!
 
 ## Work
@@ -16,4 +13,4 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 17-10-2023</sup></sub>
+<sub><sup>Last Update: 19-07-2025</sup></sub>
