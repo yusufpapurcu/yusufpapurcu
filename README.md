@@ -10,6 +10,5 @@
 Here is my contact informations.
 - [LinkedIn](https://www.linkedin.com/in/yusufpapurcu/)
 - [Mail](mailto:yusufturhanp@gmail.com)
-- [Superpeer](https://superpeer.com/yusufpapurcu)
 
 <sub><sup>Last Update: 19-08-2025</sup></sub>
