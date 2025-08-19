@@ -1,5 +1,4 @@
 ## About Me
-- Here is my [**personal blog**](https://blog.yusufpapurcu.com) if you want to see!
 
 ## Work
 - **2020-2022:** [@VirtualMetric](https://www.linkedin.com/company/virtualmetric/), I am working about data collectors.
@@ -13,4 +12,4 @@ Here is my contact informations.
 - [Mail](mailto:yusufturhanp@gmail.com)
 - [Superpeer](https://superpeer.com/yusufpapurcu)
 
-<sub><sup>Last Update: 19-07-2025</sup></sub>
+<sub><sup>Last Update: 19-08-2025</sup></sub>
